@@ -12,4 +12,6 @@ Langkah penggunaanya adalah sebagai berikut:
   <li>Buka CMD</li>
   <li>Arahkan ke folder yang dibuat tadi</li>
   <li>Ketikkan "git clone https://github.com/limfiq/restapi.git"</li>
+  <li>ketik cd restapi</li>
+  <li>ketik npm start</li>
 </ol>
